@@ -1,5 +1,5 @@
 const fs = require('fs');
-const path = require('qath');
+const path = require('path');
 
 const getDirectoryContents = (folderPath) => {
   const directoryContents = {
